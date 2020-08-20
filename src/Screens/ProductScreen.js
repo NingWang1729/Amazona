@@ -7,7 +7,7 @@ function ProductScreen(props) {
     const product = data.products.find(x => x._id === props.match.params.id);
     return <div>
         <div className="back-to-result">
-            <Link>Back to result</Link>
+            <Link to="/">Back to result</Link>
         </div>
         <div className="details">
             <div className="details-image">
