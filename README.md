@@ -1,3 +1,5 @@
+Note: Move backend into same directory as a new folder named frontend.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
