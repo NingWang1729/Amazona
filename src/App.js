@@ -39,9 +39,6 @@ function App() {
                   </li>
               </ul>
           </aside>
-          {/* <aside>
-              Shopping Section
-          </aside> */}
           
           <main className="main">
               <div className="content">
