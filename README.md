@@ -1,4 +1,5 @@
 Note: Move backend into same directory as a new folder named frontend.
+Note also: Middleware does not seem to work for some reason.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
