@@ -47,7 +47,7 @@ function App() {
               </div>
           </main>
           <footer class="footer">
-            All rights reserved.
+            All rights reserved. 
           </footer>
       </div>
     </BrowserRouter>
